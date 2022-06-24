@@ -1,0 +1,3 @@
+#!/bin/sh
+xrandr --output rdp0 --mode 2560x1440 --pos 0x0 --rotate normal
+feh --randomize --bg-fill ~/.wallpapers/*
